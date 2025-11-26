@@ -1,6 +1,6 @@
 # 🟦 Regency RAG: Local AI Engineering Assistant
 
-Regency is a locally-hosted Retrieval Augmented Generation (RAG) system designed for offline engineering research. It allows users to query technical PDF documentation using natural language, leveraging the Llama 3 LLM on consumer hardware (RTX 2060).
+Regency is a locally-hosted Retrieval Augmented Generation (RAG) system designed for offline engineering research. It allows users to query technical PDF documentation using natural language, leveraging the Llama 3 LLM on consumer hardware.
 
 ## ⚡ Architecture
 
