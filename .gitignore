@@ -1,0 +1,14 @@
+# Python junk
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# The Database (Too heavy for git)
+regency_db/
+
+# The Knowledge (Copyrighted/Private)
+knowledge_base/
+
+# OS junk
+.DS_Store
